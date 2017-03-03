@@ -19,7 +19,7 @@ Wednesday at 11:00am-12:30pm, in T115 @ BCM
 | Feb 13   | James                | Special topic: [how to use git & github for version control](https://github.com/XaqLab/GitHub-Intro/blob/master/GitHub_Intro.pdf) |
 | Feb 20   | KiJung               | [Flexible gating of contextual influences in natural vision](http://www.cnbc.cmu.edu/braingroup/papers/coen-cagli_etal_2015.pdf) Coen-Cagli et al. *Nature Neuro.* (2015) [Cortical surround interactions and perceptual salience via natural scene statistics](http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1002405&type=printable) Coen-Cagli et al. *PLOS Comp. Bio.* (2012) [Exact feature probabilities in images with occlusion](http://xaqlab.com/wp-content/uploads/2015/12/ExactFeatureProbabilities.pdf) *Journal of Vision* (2010) |
 | Feb 27   | N/A - Cosyne Metting |                                          |
-| Mar 08   | Cosyne Recap         |                                          |
+| Mar 06   | Cosyne Recap         |                                          |
 | Mar 20   | Zhengwei             |                                          |
 | Mar 27   | Qianli               |                                          |
 | April 3  | Aram                 |                                          |
