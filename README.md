@@ -6,7 +6,7 @@
 
 #### Meeting Time
 
-Wednesday at 11:00am-12:30pm, in T115 @ BCM
+Monday at 11:00am-12:30pm, in T115 @ BCM
 
 
 
@@ -20,7 +20,7 @@ Wednesday at 11:00am-12:30pm, in T115 @ BCM
 | Feb 20   | KiJung               | [Flexible gating of contextual influences in natural vision](http://www.cnbc.cmu.edu/braingroup/papers/coen-cagli_etal_2015.pdf) Coen-Cagli et al. *Nature Neuro.* (2015) [Cortical surround interactions and perceptual salience via natural scene statistics](http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1002405&type=printable) Coen-Cagli et al. *PLOS Comp. Bio.* (2012) [Exact feature probabilities in images with occlusion](http://xaqlab.com/wp-content/uploads/2015/12/ExactFeatureProbabilities.pdf) *Journal of Vision* (2010) |
 | Feb 27   | N/A - Cosyne Metting |                                          |
 | Mar 06   | Cosyne Recap         |                                          |
-| Mar 20   | Zhengwei             |                                          |
+| Mar 20   | Zhengwei             |[Algorithms for Inverse Reinforcement Learning](http://ai.stanford.edu/~ang/papers/icml00-irl.pdf) Ng and Russell *ICML* (2000) [nverse Reinforcement Learning in Partially Observable Environments](http://www.jmlr.org/papers/volume12/choi11a/choi11a.pdf) Choi and Kim *JMLR* (2011)                                          |
 | Mar 27   | Qianli               |                                          |
 | April 3  | Aram                 |                                          |
 | April 10 | Kaushik              |                                          |
