@@ -23,9 +23,9 @@ Monday at 11:00am-12:30pm, in T115 @ BCM
 | Mar 20   | Zhengwei             |[Algorithms for Inverse Reinforcement Learning](http://ai.stanford.edu/~ang/papers/icml00-irl.pdf) Ng and Russell *ICML* (2000) [Inverse Reinforcement Learning in Partially Observable Environments](http://www.jmlr.org/papers/volume12/choi11a/choi11a.pdf) Choi and Kim *JMLR* (2011)                                          |
 | Mar 27   | Qianli               |[Feedback Determines the Structure of Correlated Variability in Visual Cortex](http://biorxiv.org/content/biorxiv/early/2016/12/23/086256.full.pdf) Bondy & Cummig *bioRxiv* (2016) [Inferring the brain’s internal model from sensory responses in a probabilistic inference framework](http://biorxiv.org/content/biorxiv/early/2016/12/23/081661.full.pdf) Lange & Haefner *bioRxiv* (2016)                                        |
 | April 3  | Aram                 |[Joint modeling of multiple time series via the beta process with application to motion capture segmentation](https://arxiv.org/abs/1308.4747) Emily et al. *Annals of Applied Stat.* (2014)                                         |
-| April 10 | Kaushik              |                                          |
-| April 17 | TBA                  |                                          |
-| April 24 | TBA                  |                                          |
+| April 10 | Kaushik              |[LFADS - Latent Factor Analysis via Dynamical Systems](https://arxiv.org/pdf/1608.06315v1.pdf) Sussillo et al. *arXiv* (2016)                                         |
+| April 17 | Gautam                  |[Compressed Sensing using Generative Models](https://arxiv.org/abs/1703.03208) Bora et al. *arXiv* (2017)                                          |
+| April 24 | Emin                  |                                          |
 
 
 
