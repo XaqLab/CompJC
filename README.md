@@ -1,4 +1,4 @@
-### Computational & Theoretical Neuroscience Journal Club
+### Lab Meeting
 
 #### BCM / Rice University
 
