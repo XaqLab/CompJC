@@ -25,7 +25,7 @@ Monday at 11:00am-12:30pm, in T115 @ BCM
 | April 3  | Aram                 |[Joint modeling of multiple time series via the beta process with application to motion capture segmentation](https://arxiv.org/abs/1308.4747) Emily et al. *Annals of Applied Stat.* (2014)                                         |
 | April 10 | Kaushik              |[LFADS - Latent Factor Analysis via Dynamical Systems](https://arxiv.org/pdf/1608.06315v1.pdf) Sussillo et al. *arXiv* (2016)                                         |
 | April 17 | Gautam                  |[Compressed Sensing using Generative Models](https://arxiv.org/abs/1703.03208) Bora et al. *arXiv* (2017)                                          |
-| April 24 | Emin                  |                                          |
+| April 24 | Emin                  |[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) Finn et al. *arXiv* (2017)                                          |
 
 
 
