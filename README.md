@@ -26,6 +26,9 @@ Monday at 11:00am-12:30pm, in T115 @ BCM
 | April 10 | Kaushik              |[LFADS - Latent Factor Analysis via Dynamical Systems](https://arxiv.org/pdf/1608.06315v1.pdf) Sussillo et al. *arXiv* (2016)                                         |
 | April 17 | Gautam                  |[Compressed Sensing using Generative Models](https://arxiv.org/abs/1703.03208) Bora et al. *arXiv* (2017)                                          |
 | April 24 | Emin                  |[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) Finn et al. *arXiv* (2017)                                          |
+| May 8 | Kiefer                  |[Language in the Brain]                                          |
+| May 15 | Zhengwei                  |[A Bayesian Foundation for Individual Learning under Uncertainty](http://journal.frontiersin.org/article/10.3389/fnhum.2011.00039/full) Mathys et al. *arXiv* (2011) |
+| May 22 | Kaushik                  |                                          |
 
 
 
