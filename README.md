@@ -1,4 +1,4 @@
-### Lab Meeting
+### Xaq Lab Meeting
 
 #### BCM / Rice University
 
@@ -6,11 +6,26 @@
 
 #### Meeting Time
 
-Monday at 11:00am-12:30pm, in T115 @ BCM
+Monday at 10:30am-12:00pm, in T115 @ BCM
 
 
 
-##### Current Schedule (Spring 2017)
+##### Current Schedule (Fall 2017)
+
+| Date     | Presenter            | Reading                                  |
+| :------- | :------------------- | :--------------------------------------- |
+| Sep 25   | Kijung               | Learning nonlinearities |
+| Oct 2    | Emin                 | [Knowledge matters: Importance of prior information for optimization.](https://arxiv.org/abs/1301.4083) Gulcehre C, Bengio Y *arXiv* (2013), [Failures of gradient-based deep learning.](https://arxiv.org/abs/1703.07950) Shalev-Shwartz S, Shamir O, Shammah S *arXiv* (2017) |
+| Oct 9    |                      |  |
+| Oct 16   | Zhengwei             |  |
+| Oct 23   |                      |                                          |
+| Oct 30   |                      |                                          |
+| Nov 6    | Aram                 |                                          |
+| Nov 13   |                      |                                          |
+| Nov 20   | Kaushik              |                                          |
+
+
+##### Past Schedule (Spring 2017)
 
 | Date     | Presenter            | Reading                                  |
 | :------- | :------------------- | :--------------------------------------- |
