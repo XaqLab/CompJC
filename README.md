@@ -17,11 +17,11 @@ Monday at 10:30am-12:00pm, in T115 @ BCM
 | Sep 25   | Kijung               | Learning nonlinearities in deep neural network. |
 | Oct 2    | Emin                 | [Knowledge matters: Importance of prior information for optimization.](https://arxiv.org/abs/1301.4083) Gulcehre C, Bengio Y *arXiv* (2013), [Failures of gradient-based deep learning.](https://arxiv.org/abs/1703.07950) Shalev-Shwartz S, Shamir O, Shammah S *arXiv* (2017) |
 | Oct 16   | Zhengwei             | Inverse reinforcement learning in foraging task. |
-| Oct 23   | Raj                  | Inferring inference.                             |
-| Oct 30   | Qianli               |                                          |
-| Nov 6    | Aram                 |                                          |
-| Nov 13   |                      |                                          |
+| Oct 30   | Raj                  | Inferring inference.                             |
+| Nov 6    | Qianli               |                                          |
+| Nov 13   | Aram                 |                                          |
 | Nov 20   | Kaushik              |                                          |
+| Nov 27   |                      |                                          |
 
 
 ##### Past Schedule (Spring 2017)
