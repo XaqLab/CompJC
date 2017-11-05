@@ -18,8 +18,8 @@ Monday at 10:30am-12:00pm, in T115 @ BCM
 | Oct 2    | Emin                 | [Knowledge matters: Importance of prior information for optimization.](https://arxiv.org/abs/1301.4083) Gulcehre C, Bengio Y *arXiv* (2013), [Failures of gradient-based deep learning.](https://arxiv.org/abs/1703.07950) Shalev-Shwartz S, Shamir O, Shammah S *arXiv* (2017) |
 | Oct 16   | Zhengwei             | Inverse reinforcement learning in foraging task. |
 | Oct 30   | Raj                  | Inferring inference.                             |
-| Nov 6    | Qianli               |                                          |
-| Nov 13   | Aram                 |                                          |
+| Nov 6    | Raanju               | Stationary Subspace Analysis and Neuroeconomics  |
+| Nov 13   | Qianli               |                                          |
 | Nov 20   | Kaushik              |                                          |
 | Nov 27   |                      |                                          |
 
