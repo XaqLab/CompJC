@@ -20,8 +20,8 @@ Monday at 10:30am-12:00pm, in T115 @ BCM
 | Oct 30   | Raj                  | Inferring inference.                             |
 | Nov 6    | Raanju               | Stationary Subspace Analysis and Neuroeconomics  |
 | Nov 13   | Qianli               | [Towards a unified theory of efficient, predictive and sparse coding.](https://www.biorxiv.org/content/early/2017/06/20/152660) Chalk et al. *bioRxiv* (2017)                                         |
-| Nov 20   | Kaushik              |                                          |
-| Nov 27   | Emin                 |                                          |
+| Nov 20   | Emin                 | [Poincaré Embeddings for Learning Hierarchical Representations.](https://arxiv.org/abs/1705.08039) Nickel & Kiela *arXiv* (2017                      |
+| Nov 27   | Kaushik              |                                          |
 | Dec 4    | NIPS                 |                                          |
 
 ##### Past Schedule (Spring 2017)
