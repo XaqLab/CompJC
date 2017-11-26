@@ -1,12 +1,17 @@
 ### Xaq Lab Meeting
 
-#### BCM / Rice University
 
 
 
-#### Meeting Time
+#### Meeting Time & Place
 
-Monday at 10:30am-12:00pm, in T115 @ BCM
+Monday @ 10:30am-12:00pm
+
+BCM T115
+
+#### Contact
+
+If you’d like to be added to the email list or sign up to present, please contact Kijung Yoon (kijung [dot] yoon [at] gmail [dot] com).
 
 
 
@@ -14,14 +19,14 @@ Monday at 10:30am-12:00pm, in T115 @ BCM
 
 | Date     | Presenter            | Reading                                  |
 | :------- | :------------------- | :--------------------------------------- |
-| Sep 25   | Kijung               | Learning nonlinearities in deep neural networks. |
+| Sep 25   | Kijung               | Learning multivariate nonlinearities in deep neural networks. |
 | Oct 2    | Emin                 | [Knowledge matters: Importance of prior information for optimization.](https://arxiv.org/abs/1301.4083) Gulcehre C, Bengio Y *arXiv* (2013), [Failures of gradient-based deep learning.](https://arxiv.org/abs/1703.07950) Shalev-Shwartz S, Shamir O, Shammah S *arXiv* (2017) |
 | Oct 16   | Zhengwei             | Inverse reinforcement learning in foraging task. |
 | Oct 30   | Raj                  | Inferring inference.                             |
-| Nov 6    | Raanju               | Stationary Subspace Analysis and Neuroeconomics  |
+| Nov 6    | Raanju               | Stationary Subspace Analysis and Neuroeconomics.  |
 | Nov 13   | Qianli               | [Towards a unified theory of efficient, predictive and sparse coding.](https://www.biorxiv.org/content/early/2017/06/20/152660) Chalk et al. *bioRxiv* (2017)                                         |
 | Nov 20   | Emin                 | [Poincaré Embeddings for Learning Hierarchical Representations.](https://arxiv.org/abs/1705.08039) Nickel & Kiela *arXiv* (2017                      |
-| Nov 27   | Kaushik              |                                          |
+| Nov 27   | Kaushik              | Firefly task and neural data analysis.           |
 | Dec 4    | NIPS                 |                                          |
 
 ##### Past Schedule (Spring 2017)
