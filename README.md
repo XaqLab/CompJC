@@ -28,6 +28,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Nov 20   | Emin                 | [Poincaré Embeddings for Learning Hierarchical Representations.](https://arxiv.org/abs/1705.08039) Nickel & Kiela *arXiv* (2017                      |
 | Nov 27   | Kaushik              | Firefly task and neural data analysis.           |
 | Dec 4    | NIPS                 |                                          |
+| Dec 18   | Rod Rinkus           |                                          |
 
 ##### Past Schedule (Spring 2017)
 
