@@ -25,10 +25,10 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Oct 30   | Raj                  | Inferring inference.                             |
 | Nov 6    | Raanju               | Stationary Subspace Analysis and Neuroeconomics.  |
 | Nov 13   | Qianli               | [Towards a unified theory of efficient, predictive and sparse coding.](https://www.biorxiv.org/content/early/2017/06/20/152660) Chalk et al. *bioRxiv* (2017)                                         |
-| Nov 20   | Emin                 | [Poincaré Embeddings for Learning Hierarchical Representations.](https://arxiv.org/abs/1705.08039) Nickel & Kiela *arXiv* (2017                      |
+| Nov 20   | Emin                 | [Poincaré embeddings for learning hierarchical representations.](https://arxiv.org/abs/1705.08039) Nickel & Kiela *arXiv* (2017                      |
 | Nov 27   | Kaushik              | Firefly task and neural data analysis.           |
 | Dec 4    | NIPS                 |                                          |
-| Dec 18   | Rod Rinkus           |                                          |
+| Dec 18   | Rod Rinkus           | A radically novel explanation of probabilistic computing in the brain. |
 
 ##### Past Schedule (Spring 2017)
 
