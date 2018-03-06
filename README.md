@@ -15,7 +15,25 @@ If you’d like to be added to the email list or sign up to present, please cont
 
 
 
-##### Current Schedule (Fall 2017)
+##### Current Schedule (Spring 2018)
+
+| Date     | Presenter            | Reading                                  |
+| :------- | :------------------- | :--------------------------------------- |
+| Feb 1    | Saurabh              | Inverse optimal control. |
+| Feb 8    | Emin                 | [Holographic Reduced Representations.](http://ieeexplore.ieee.org/document/377968/) Plate T.A. *IEEE trans. neural networks* (1995), [Associative LSTM.](https://arxiv.org/pdf/1602.03032.pdf) Danihelka I. et al. *arXiv* (2016) |
+| Feb 14   | Grant Walker         | Language theories with Greg Hickok. |
+| Feb 22   | Aram                 | Bayesian inference with ECoG data.                |
+| Mar 1    | COSYNE               |                                                   |
+| Mar 8    | Kijung               | [Neural Relational Inference for Interacting Systems.](https://arxiv.org/pdf/1802.04687.pdf) Kipf T. et al. *arXiv* (2018)                                         |
+| Mar 15   | Neda                 | []()                      |
+| Mar 22   | Eric                 |                           |
+| Mar 29   | Qianli               |                           |
+| Apr 5    |            |              |
+| Apr 12    |            |              |
+| Apr 19    |            |              |
+| Apr 26    |            |              |
+
+##### Past Schedule (Fall 2017)
 
 | Date     | Presenter            | Reading                                  |
 | :------- | :------------------- | :--------------------------------------- |
