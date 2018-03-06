@@ -5,7 +5,7 @@
 
 #### Meeting Time & Place
 
-Monday @ 10:30am-12:00pm
+Thursday @ 10:30am-12:00pm
 
 BCM T115
 
