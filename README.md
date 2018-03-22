@@ -23,7 +23,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Feb 8    | Emin                 | [Holographic Reduced Representations.](http://ieeexplore.ieee.org/document/377968/) Plate T.A. *IEEE trans. neural networks* (1995), [Associative LSTM.](https://arxiv.org/pdf/1602.03032.pdf) Danihelka I. et al. *arXiv* (2016) |
 | Feb 14   | Grant Walker         | Language theories with Greg Hickok. |
 | Feb 22   | Aram                 | Bayesian inference with ECoG data.                |
-| Mar 1    | COSYNE               |                                                   |
+| Mar 1    | COSYNE Meeting               |                                                   |
 | Mar 8    | Kijung               | [Neural Relational Inference for Interacting Systems.](https://arxiv.org/pdf/1802.04687.pdf) Kipf T. et al. *arXiv* (2018)                                         |
 | Mar 15   | Neda                 | Representation of reward expectation and foraging strategy in macaque dlPFC.                      |
 | Mar 22   | Xaq                 | Implicit inference in distributed codes.                          |
