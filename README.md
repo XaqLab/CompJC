@@ -25,12 +25,12 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Feb 22   | Aram                 | Bayesian inference with ECoG data.                |
 | Mar 1    | COSYNE               |                                                   |
 | Mar 8    | Kijung               | [Neural Relational Inference for Interacting Systems.](https://arxiv.org/pdf/1802.04687.pdf) Kipf T. et al. *arXiv* (2018)                                         |
-| Mar 15   | Neda                 | Representation of reward expectation and foraging strategy in macaque dlPFC                      |
-| Mar 22   | Eric                 |                           |
-| Mar 29   | Qianli               |                           |
-| Apr 5    |            |              |
-| Apr 12    |            |              |
-| Apr 19    |            |              |
+| Mar 15   | Neda                 | Representation of reward expectation and foraging strategy in macaque dlPFC.                      |
+| Mar 22   | Xaq                 | Implicit inference in distributed codes.                          |
+| Mar 29   | Eric               |                           |
+| Apr 5    | Qianli           |              |
+| Apr 12    | Raj           |              |
+| Apr 19    | Yicheng           |              |
 | Apr 26    |            |              |
 
 ##### Past Schedule (Fall 2017)
