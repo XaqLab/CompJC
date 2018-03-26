@@ -26,11 +26,11 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Mar 1    | COSYNE Meeting               |                                                   |
 | Mar 8    | Kijung               | [Neural Relational Inference for Interacting Systems.](https://arxiv.org/pdf/1802.04687.pdf) Kipf T. et al. *arXiv* (2018)                                         |
 | Mar 15   | Neda                 | Representation of reward expectation and foraging strategy in macaque dlPFC.                      |
-| Mar 22   | Xaq                 | Implicit inference in distributed codes.                          |
-| Mar 29   | Eric               |                           |
-| Apr 5    | Qianli           |              |
-| Apr 12    | Raj           |              |
-| Apr 19    | Yicheng           |              |
+| Mar 22   | Xaq                  | Implicit inference in distributed codes.                          |
+| Mar 28   | Qianli               | Revealing nonlinear neural decoding by analyzing choices.         |
+| Apr 5    | Raj           |              |
+| Apr 12    | Yicheng           |              |
+| Apr 19    | Wei           |              |
 | Apr 26    |            |              |
 
 ##### Past Schedule (Fall 2017)
