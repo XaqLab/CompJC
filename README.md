@@ -28,7 +28,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Mar 15   | Neda                 | Representation of reward expectation and foraging strategy in macaque dlPFC.                      |
 | Mar 22   | Xaq                  | Implicit inference in distributed codes.                          |
 | Mar 28   | Qianli               | Revealing nonlinear neural decoding by analyzing choices.         |
-| Apr 5    | Raj           |              |
+| Apr 5    | Raj                  | [ltivariate von Mises distributions: some fundamental properties, inference and applications.](http://reports-archive.adm.cs.cmu.edu/anon/lane/CMU-CB-11-101.pdf)              |
 | Apr 12    | Yicheng           |              |
 | Apr 19    | Wei           |              |
 | Apr 26    |            |              |
