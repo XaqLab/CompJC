@@ -29,7 +29,7 @@ If you’d like to be added to the email list or sign up to present, please cont
 | Mar 22   | Xaq                  | Implicit inference in distributed codes.                          |
 | Mar 28   | Qianli               | Revealing nonlinear neural decoding by analyzing choices.         |
 | Apr 5    | Raj                  | [Multivariate von Mises distributions: some fundamental properties, inference and applications.](http://reports-archive.adm.cs.cmu.edu/anon/lane/CMU-CB-11-101.pdf)              |
-| Apr 12    | Yicheng           |              |
+| Apr 12    | Yicheng           | [lexible statistical inference for mechanistic models of neural dynamics.](https://arxiv.org/pdf/1711.01861.pdf) Lueckmann J. et. al. *NIPS* (2017)             |
 | Apr 19    | Wei           |              |
 | Apr 26    | Kaushik           |              |
 
